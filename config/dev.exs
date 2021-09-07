@@ -2,8 +2,8 @@ use Mix.Config
 
 # Configure your database
 config :main_event_draw, MainEventDraw.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "derekhouck",
+  password: "",
   database: "main_event_draw_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
